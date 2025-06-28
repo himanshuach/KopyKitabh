@@ -1,0 +1,14 @@
+{
+  "name": "kopykitabh",
+  "version": "1.0.0",
+  "description": "An E-Commerce Website related to books created using HTML, CSS &amp; JavaScript !!\r KopyKitabh is an e-commerce website for buying books, built with HTML, CSS, and JavaScript. It allows users to browse various categories, view book details, and make purchases. The website features a simple and intuitive interface, demonstrating basic e-commerce functionalities like productlistings and shopping cart features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -o",
+    "dev": "npx live-server --port=3000 --open=/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
