@@ -1,4 +1,7 @@
 # KopyKitabh 📚
+Where every page turns into a new adventure*
+
+![image](https://github.com/user-attachments/assets/82edc58b-96a5-4b77-b3ce-5391b49ec5e6)
 
 **Your Gateway to Infinite Knowledge and Imagination**
 
@@ -175,7 +178,3 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ by Himanshu for book lovers everywhere**
-
-*KopyKitabh - Where every page turns into a new adventure*
-
-![image](https://github.com/user-attachments/assets/82edc58b-96a5-4b77-b3ce-5391b49ec5e6)
